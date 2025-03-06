@@ -5,6 +5,15 @@ A simple Netflix Clone built using HTML, CSS, and JavaScript, replicating the UI
 Author - Vishal Rathore
 gmail - vishalrathore0992@gmail.com
 
+Due to some technical issues website is not live yet. <br>
+You can watch website in the video given below. <br>
+
+
+
+https://github.com/user-attachments/assets/fea53912-7e56-4e96-b7f4-c0610c1803a0
+
+
+
 Features
 
 Responsive Design - Works seamlessly across different screen sizes.
